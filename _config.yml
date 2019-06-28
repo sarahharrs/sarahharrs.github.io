@@ -1,11 +1,11 @@
 # Site settings
-author: Sarah Harrs
-title: 
+author: Sarah Jeanette
+title: Cybernetic Chats
 header-img: img/home-bg.png
 email: sarahharrs@gmail.com
-copyright_name: Sarah Harrs
+copyright_name: Sarah Jeanette
 description: > # this means to ignore newlines until "baseurl:"
-  
+  Making technology do the work for you
 baseurl: "" # the subpath of your site, e.g. /blog
 twitter_username: 
 github_username:  sarahharrs
